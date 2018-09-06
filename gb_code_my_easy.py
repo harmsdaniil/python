@@ -8,8 +8,8 @@ ulitsa=input('Введите название улицы:')
 print('Улица ', ulitsa)
 
 print('Задача 2')
-chislo=input('Введите число:')
-print(int(chislo)+2)
+chislo=int(input('Введите число:'))
+print(chislo+2)
 
 print('Задача 3')
 vozr=int(input('Введите свой возраст: '))
